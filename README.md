@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Atom</h1>
 <h3 align="center">A passionate full-stack Developer.</h3>
 
-- 🌱 I’m currently learning **EntityframeworkCore**
-
 - 💬 Ask me about **Vue**
 
 - ⚡ Fun fact **China censored the word for "censorship."**
 
 <h3 align="left">Connect with me:</h3>
-- Discord: Atom#0187
+<p href="">- Discord: Atom#0187
 <p align="left">
 </p>
 
