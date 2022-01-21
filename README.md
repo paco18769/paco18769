@@ -6,7 +6,7 @@
 - :zap: Fun fact **China censored the word for "censorship."**
 
 <h3 align="left">Connect with me:</h3>
-<p href="">- Discord: <p href="https://discord.com/users/843307623402700800">Atom#0187">Atom#0187
+<p href="">- Discord: <p href="https://discord.com/users/843307623402700800">Atom#0187
 <p align="left">
 </p>
 
