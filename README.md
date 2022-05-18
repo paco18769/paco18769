@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **EntityframeworkCore**
 
-- :speech_balloon: Ask me about **Vue**
+- :speech_balloon: Ask me about **C#**
 
 - :zap: Fun fact **China censored the word for "censorship."**
 
